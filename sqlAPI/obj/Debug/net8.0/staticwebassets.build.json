@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o4n7UjHWL98Tt5cAkxdFMjSX+75CW/d4B7qeDE+aH/w=",
+  "Source": "sqlAPI",
+  "BasePath": "_content/sqlAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
