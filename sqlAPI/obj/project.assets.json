@@ -2717,11 +2717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alina\\source\\repos\\sqlAPI\\sqlAPI\\sqlAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Alina\\source\\repos\\sqlAPI\\SSMSapi\\sqlAPI\\sqlAPI.csproj",
       "projectName": "sqlAPI",
-      "projectPath": "C:\\Users\\Alina\\source\\repos\\sqlAPI\\sqlAPI\\sqlAPI.csproj",
+      "projectPath": "C:\\Users\\Alina\\source\\repos\\sqlAPI\\SSMSapi\\sqlAPI\\sqlAPI.csproj",
       "packagesPath": "C:\\Users\\Alina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alina\\source\\repos\\sqlAPI\\sqlAPI\\obj\\",
+      "outputPath": "C:\\Users\\Alina\\source\\repos\\sqlAPI\\SSMSapi\\sqlAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alina\\AppData\\Roaming\\NuGet\\NuGet.Config",
